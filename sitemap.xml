@@ -2,21 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/11/12/2test/</loc>
+    <loc>https://voice-main.github.io/404/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://voice-main.github.io/friends/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://voice-main.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://voice-main.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://voice-main.github.io/2021/11/12/2test/</loc>
     
     <lastmod>2021-11-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/12/firstTestFile/</loc>
+    <loc>https://voice-main.github.io/2021/11/12/firstTestFile/</loc>
     
     <lastmod>2021-11-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/12/hello-world/</loc>
+    <loc>https://voice-main.github.io/2021/11/12/hello-world/</loc>
     
     <lastmod>2021-11-12</lastmod>
     
@@ -24,16 +52,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2021-11-15</lastmod>
+    <loc>https://voice-main.github.io/</loc>
+    <lastmod>2021-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
-    <lastmod>2021-11-15</lastmod>
+    <loc>https://voice-main.github.io/tags/test/</loc>
+    <lastmod>2021-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
